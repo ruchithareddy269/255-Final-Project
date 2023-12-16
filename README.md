@@ -8,6 +8,7 @@
 
 ## Introduction
 Time-series analysis has long been a favored method in various fields, aiming to predict changes occurring over time. Its core purpose lies in utilizing historical data to anticipate future patterns and shifts. This analytical approach finds application across diverse domains like retail market analysis, sales projections, stock market evaluations, and more. Specifically, our task involves forecasting the volume of bike rentals based on surrounding conditions. Each day of bike rentals yields a time-series dataset encompassing variables such as temperature, weather conditions, wind speed, and the number of customers renting bikes. Our analysis focuses on dissecting bike rental data, delving into factors like temperature, seasonal variations, weather nuances, and other pertinent aspects influencing rentals. Given the time-series nature of the dataset, our goal is to predict customer volumes by leveraging insights gleaned from historical data.
+
 ![image](https://github.com/ruchithareddy269/255-Final-Project/assets/64256985/7414f31e-571b-4dbe-a38a-c15e5e7a88d2)
 
 
