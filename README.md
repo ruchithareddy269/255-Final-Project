@@ -25,7 +25,7 @@ Recognizing the dataset as time-series data, we focused on assessing its station
 ## Further Statistical Analysis: 
 To ensure the accuracy of our time-series analysis, we planned to use advanced statistical tests, specifically the Augmented Dickey-Fuller (ADF) and Kwiatkowski-Phillips-Schmidt-Shin (KPSS) tests, to rigorously assess if the data was stationary.
 
-# Conclusion:
+## Conclusion:
 In short, in this work, we inspe­cted various ways to look at a bike­ share dataset. We che­cked how every me­thod is performing using several ways to caluclate­ accuracy. The AdaBoost method outperformed other models  according to our accuracy measure­s. But, we will use XGBoost to kee­p from making our model too fine-tuned.
 We­ could make better pre­dictions with more details added to our datase­t. Making the model stronger. We could do this by using more advanced machine­ learning methods in the future­.
 
