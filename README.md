@@ -6,7 +6,8 @@
 | Suresh Ravuri | 
 | Harshavardhan Raghavendra Valmiki |
 
-Presentation Slides:  
+Presentation Slides: https://docs.google.com/presentation/d/1hyNGHisM3kLmkwGMwYCL_PYq2eFCp--FECLRO5DNZhI/edit?usp=sharing  
+
 
 Demo Video:
 
